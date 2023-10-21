@@ -1,4 +1,4 @@
-@extends('public.accest')
+@extends('resouces.accest')
 
 
 <header>
