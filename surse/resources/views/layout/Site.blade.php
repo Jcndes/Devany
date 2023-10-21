@@ -2,7 +2,7 @@
 <html lang="pt-br">
  
  use head.blade.php  
- <link rel="stylesheet" href="style.css"/>
+ <link rel="stylesheet" href="resources.css.app.css"/>
         <title>My Webpage</title>
     <body>
         <ul id="navigation">

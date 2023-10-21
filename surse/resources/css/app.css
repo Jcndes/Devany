@@ -20,7 +20,7 @@ header {
 
 /* Estilo de links */
 a {
-  color: #007BFF;
+  color: #748274;
   text-decoration: none;
 }
 
@@ -29,6 +29,6 @@ a {
   width: 80%;
   margin: 0 auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: #aca5a5;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
