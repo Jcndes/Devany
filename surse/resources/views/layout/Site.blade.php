@@ -3,7 +3,7 @@
  
  use head.blade.php  
  <link rel="stylesheet" href="resources.css.app.css"/>
-         <title>My Webpage</title>
+         <title>Devany</title>
     <body>
         <ul id="navigation">
         
