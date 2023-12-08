@@ -2,7 +2,8 @@
 
 namespace App\Http\Controllers\site;
 
-
+use App\Http\Controllers\Controller; // Adicione esta linha para importar a classe Controller
+use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
