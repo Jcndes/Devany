@@ -1,2 +1,2 @@
-@extends('resouces.accest')
+@extends('public.accest')
 
