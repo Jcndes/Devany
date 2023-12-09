@@ -1,2 +1,2 @@
-@extends('public.accest')
+@extends ('public.accest')
 
